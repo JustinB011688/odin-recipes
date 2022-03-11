@@ -1,4 +1,22 @@
 h1 {
-  text-align: center;
+    text-align: center;
+}
+.photo {
+    text-align: center;
+    border:2px solid black;
 }
 
+h2 {
+    background-color: beige;
+    border: 2px solid black;
+    text-align: center;
+    display: inline-block;
+
+
+    
+
+}
+
+p {
+    text-align: center;
+}
