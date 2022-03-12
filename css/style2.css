@@ -3,20 +3,39 @@ h1 {
 }
 .photo {
     text-align: center;
-    border:2px solid black;
+    
+}
+
+img {
+    width: 250px;
+    height: 250px;
+
 }
 
 h2 {
     background-color: beige;
-    border: 2px solid black;
+
     text-align: center;
-    display: inline-block;
-
-
-    
 
 }
 
 p {
     text-align: center;
+}
+
+.abouttitle {
+    background-color: beige;
+}
+.about {
+    
+    text-align: center;
+
+}
+
+.button {
+    border-radius: 10px;
+    border-style:hidden;
+    background-color: transparent;
+    color: black;
+    font-size: 18px;
 }
